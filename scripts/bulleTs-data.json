@@ -1,0 +1,6 @@
+[
+  {"title":"Man","dimension":"height","terjedelem":[20,80],"ranges":[30,40,50,60,70],"rangesLine":[50],"measures":[38.93,47.15,63.59,71.81],"markers":[55.37,50]},
+  {"title":"Woman","dimension":"height","terjedelem":[20,80],"ranges":[30,40,50,60,70],"rangesLine":[50],"measures":[27.02,35.82,53.44,62.24],"markers":[44.63,50]},
+  {"title":"Man","dimension":"weight","terjedelem":[20,80],"ranges":[30,40,50,60,70],"rangesLine":[50],"measures":[39.70,48.31,65.54,74.15],"markers":[56.93,50]},
+  {"title":"Woman","dimension":"weight","terjedelem":[20,80],"ranges":[30,40,50,60,70],"rangesLine":[50],"measures":[29.24,36.21,50.14,57.11],"markers":[43.18,50]}
+]
